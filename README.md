@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Hakkımda
 
-Merhaba! Ben Murat Can Atar. Teknolojiye olan ilgim ve yazılıma duyduğum tutku ile Frontend development alanında projeler geliştiriyorum. React, Python ve C++ gibi teknolojilere hâkimim. Takım çalışmasına ve kullanıcı odaklı arayüzlere büyük önem veririm. 👨‍💻
+Merhaba! Ben Murat Can Atar. Teknolojiye olan ilgim ve yazılıma duyduğum tutku ile Frontend development alanında projeler geliştiriyorum. React, Python ve C++ gibi teknolojilere hâkimim. Takım çalışmasına ve kullanıcı odaklı arayüzlere büyük önem veririm. 
 
 ---
 
@@ -28,8 +28,12 @@ Merhaba! Ben Murat Can Atar. Teknolojiye olan ilgim ve yazılıma duyduğum tutk
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Image%20Processing-%23000000?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
 
 ---
 
