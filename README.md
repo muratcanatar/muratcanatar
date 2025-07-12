@@ -20,7 +20,7 @@ Teknolojiye olan ilgim ve öğrenme merakım sayesinde React, Python ve C++ gibi
 
 - **✈️ Atalan UAV Team | Head of Software Department**  
   Teknofest için insansız hava aracı (İHA) geliştiriyoruz. Hem otonom uçuş hem de görüntü işleme ekiplerine yazılımsal katkı sağlıyorum.  
-  *(Feb 2024 - Devam ediyor)*
+  *(Feb 2024 - Apr 2025)*
 
 - **📘 Derspresso.com | Gönüllü İçerik Üreticisi**  
   Öğrencilere ücretsiz matematik kaynakları sunan bir projede içerik hazırlama ve bazı tasarım işlerinde görev aldım.
