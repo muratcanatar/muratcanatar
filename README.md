@@ -1,70 +1,85 @@
-<h1 align="center">👋 Merhaba, ben Murat Can Atar</h1>
+<!-- PROFIL BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Murat%20Can%20Atar&fontSize=40&fontColor=fff&animation=fadeIn" alt="header" />
+</p>
+
+<h2 align="center">🚀 Bilgisayar Mühendisliği Öğrencisi | Frontend Developer</h2>
 
 <p align="center">
-🎓 İstanbul Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisiyim (2021 - 2026).<br>
-💻 Frontend development ve yazılım geliştirme tutkusu ile projeler üretiyorum.<br>
-🚀 React, Python, C++, HTML/CSS gibi teknolojiler üzerinde deneyim sahibiyim.
+  🎓 İstanbul Teknik Üniversitesi (2021 - 2026) <br>
+  💻 React, Python, C++, HTML/CSS <br>
+  📍 İstanbul, Türkiye
 </p>
 
 ---
 
-## 🧑‍💻 Hakkımda
+## 👨‍💻 Hakkımda
 
-Teknolojiye olan ilgim ve öğrenme merakım sayesinde React, Python ve C++ gibi teknolojilerle çeşitli projeler geliştirdim. Web geliştirme ve frontend mühendisliği alanlarında uzmanlaşmaya çalışıyorum. Takım çalışmasına önem veriyor, sabırlı ve çözüm odaklı yaklaşımlarla problemlere yaklaşıyorum.
+Merhaba! Ben Murat Can Atar. Teknolojiye olan ilgim ve yazılıma duyduğum tutku ile Frontend development alanında projeler geliştiriyorum. React, Python ve C++ gibi teknolojilere hâkimim. Takım çalışmasına ve kullanıcı odaklı arayüzlere büyük önem veririm. 👨‍💻
+
+---
+
+## 🧠 Yetenekler & Teknolojiler
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+</p>
+
+---
 
 ## 💼 Deneyimler
 
-- **💡 Parkera | Web Development Intern**  
-  HTML, CSS ve JavaScript ile modern web tasarımları geliştirip kullanıcı deneyimini artırmaya yönelik çalışmalarda bulundum.  
-  *(Jan 2022 - Jun 2022)*
+- 🧩 **Parkera** – *Web Development Intern*  
+  Modern web tasarımları geliştirme, kullanıcı deneyimi iyileştirme, HTML/CSS/JS ile projeler  
+  *(Ocak 2022 – Haziran 2022)*
 
-- **✈️ Atalan UAV Team | Head of Software Department**  
-  Teknofest için insansız hava aracı (İHA) geliştiriyoruz. Hem otonom uçuş hem de görüntü işleme ekiplerine yazılımsal katkı sağlıyorum.  
-  *(Feb 2024 - Apr 2025)*
+- ✈️ **Atalan UAV Team** – *Yazılım Takımı Lideri*  
+  Teknofest için geliştirilen İHA projesinde görüntü işleme ve otonom uçuş yazılımları geliştirme  
+  *(Şubat 2024 – Nisan 2025)*
 
-- **📘 Derspresso.com | Gönüllü İçerik Üreticisi**  
-  Öğrencilere ücretsiz matematik kaynakları sunan bir projede içerik hazırlama ve bazı tasarım işlerinde görev aldım.
-
----
-
-## 🛠️ Yetenekler
-
-- **Frontend:** HTML5, CSS3, JavaScript, React  
-- **Backend & Tools:** Python, C++, C#  
-- **Diğer:** UI/UX, Görüntü İşleme, Versiyon Kontrol (Git), Proje Yönetimi
+- 📘 **Derspresso.com** – *İçerik Üreticisi & Tasarımcı*  
+  Öğrencilere yönelik ücretsiz matematik platformu projesi
 
 ---
 
-## 📜 Sertifikalar
+## 🏆 Sertifikalarım
 
-- React 101 - 401 (Techcareer.net)
-- Python 101 & 102 – Turkcell Geleceği Yazanlar  
-- C# ile Algoritma ve Programlama – Turkcell Geleceği Yazanlar  
-- C++ Veri Yapıları – Udemy  
-- Patika.dev Frontend Web Development Path  
-
----
-
-## 🌍 Diller
-
-- Türkçe: Ana dil  
-- İngilizce: C1  
-- İspanyolca: Başlangıç  
+- React 101-401 - Turkcell Geleceği Yazanlar  
+- Python 101 & 102 - Turkcell Geleceği Yazanlar  
+- C++ Veri Yapıları - Udemy  
+- Patika.dev Frontend Web Path  
+- C# ile Algoritma ve Programlama
 
 ---
 
-## 📫 İletişim
+## 📈 GitHub İstatistikleri
 
-- 📧 Email: atar_muratcan07@hotmail.com  
-- 📱 Telefon: +90 553 325 0825  
-- 📍 Konum: Sarıyer / İstanbul  
-- 🎓 İstanbul Teknik Üniversitesi - Bilgisayar Mühendisliği
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muratcanatar&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muratcanatar&theme=radical" alt="streak" />
+</p>
 
----
-
-## 📈 GitHub İstatistiklerim
-
-![Murat Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratcanatar&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcanatar&layout=compact&theme=radical" alt="top langs" />
+</p>
 
 ---
 
+## 📫 Bana Ulaş
+
+<p align="center">
+  <a href="mailto:atar_muratcan07@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muratcanatar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
